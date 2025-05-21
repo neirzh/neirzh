@@ -1,5 +1,5 @@
 <details>
-  <summary><h3>Thoughts that resonate with me</h3></summary>
+  <summary><h3>My North Stars</h3></summary>
   <br>
 
 > **"Optimism is your moral duty."**
