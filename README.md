@@ -1,3 +1,4 @@
+![Wassily Kandinsky's Composition VIII](Wassily-Comp_VIII.jpg)
 <details>
   <summary><h3>My North Stars</h3></summary>
   <br>
